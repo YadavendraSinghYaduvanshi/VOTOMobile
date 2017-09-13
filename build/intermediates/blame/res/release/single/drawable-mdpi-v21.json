@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\VOTOMobile\\votoMobile\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v21\\ic_menu_camera.xml",
+        "source": "E:\\VOTOMobile\\votoMobile\\build\\generated\\res\\pngs\\release\\drawable-mdpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\VOTOMobile\\votoMobile\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v21\\ic_menu_share.xml",
+        "source": "E:\\VOTOMobile\\votoMobile\\build\\generated\\res\\pngs\\release\\drawable-mdpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "E:\\VOTOMobile\\votoMobile\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v21\\ic_menu_send.xml",
+        "source": "E:\\VOTOMobile\\votoMobile\\build\\generated\\res\\pngs\\release\\drawable-mdpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "E:\\VOTOMobile\\votoMobile\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v21\\ic_menu_gallery.xml",
+        "source": "E:\\VOTOMobile\\votoMobile\\build\\generated\\res\\pngs\\release\\drawable-mdpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\VOTOMobile\\votoMobile\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v21\\ic_menu_slideshow.xml",
+        "source": "E:\\VOTOMobile\\votoMobile\\build\\generated\\res\\pngs\\release\\drawable-mdpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "E:\\VOTOMobile\\votoMobile\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v21\\ic_menu_manage.xml",
+        "source": "E:\\VOTOMobile\\votoMobile\\build\\generated\\res\\pngs\\release\\drawable-mdpi-v21\\ic_menu_manage.xml"
+    }
+]
